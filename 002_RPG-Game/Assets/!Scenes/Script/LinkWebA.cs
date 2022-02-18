@@ -7,7 +7,8 @@ using System.Collections;
 // Access a website and use UnityWebRequest.Get to download a page.
 // Also try to download a non-existing page. Display the error.
 
-public class Example : MonoBehaviour
+/*
+public class LinkWebA : MonoBehaviour
 {
     void Start()
     {
@@ -41,3 +42,4 @@ public class Example : MonoBehaviour
         }
     }
 }
+*/
